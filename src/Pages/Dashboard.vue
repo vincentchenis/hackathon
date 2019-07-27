@@ -11,7 +11,7 @@
       you to do as much as you can and bring as many friends along with you, <br />
       because as they say, the more the merrier! <br /><br />
 
-      Your personal volunteering hours so far (cumulative) have been: 400 hours.
+      Your personal volunteering hours so far (cumulative) have been: 36 hours.
       <br /><br /><br />
       <center>Happy volunteering!</center>
       <p style="text-align: right"><em>Student Heroes Founders, 2019</em></p>

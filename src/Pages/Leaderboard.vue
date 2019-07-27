@@ -53,16 +53,16 @@ export default {
     data() {
         return {
         items: [
-            { rank: 1, name: 'Toowoomba Grammar School', avg_hours: '2120'},
-            { rank: 2, name: 'Cheltenham Girls High School', avg_hours: '2061' },
-            { rank: 3, name: 'Brisbane Grammar School', avg_hours: '1988' },
-            { rank: 4, name: 'Melbourne High School', avg_hours: '1974' },
-            { rank: 5, name: 'Fort Street High School', avg_hours: '1925' },
-            { rank: 6, name: 'Sydney Girls High School', avg_hours: '1904' },
-            { rank: 7, name: 'Abbotsleigh', avg_hours: '1883' },
-            { rank: 8, name: 'Presbyterian Ladies College, Melbourne', avg_hours: '1856' },
-            { rank: 9, name: 'Glenunga International School', avg_hours: '1832' },
-            { rank: 10, name: 'Chatswood High School', avg_hours: '1759' },
+            { rank: 1, name: 'Toowoomba Grammar School', avg_hours: '62'},
+            { rank: 2, name: 'Cheltenham Girls High School', avg_hours: '59' },
+            { rank: 3, name: 'Brisbane Grammar School', avg_hours: '57' },
+            { rank: 4, name: 'Melbourne High School', avg_hours: '55' },
+            { rank: 5, name: 'Fort Street High School', avg_hours: '53' },
+            { rank: 6, name: 'Sydney Girls High School', avg_hours: '51' },
+            { rank: 7, name: 'Abbotsleigh', avg_hours: '48' },
+            { rank: 8, name: 'Presbyterian Ladies College, Melbourne', avg_hours: '44' },
+            { rank: 9, name: 'Glenunga International School', avg_hours: '42' },
+            { rank: 10, name: 'Chatswood High School', avg_hours: '40' },
         ],
         fields: [
             { key: 'rank', label: 'Ranking' },
