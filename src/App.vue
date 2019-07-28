@@ -48,6 +48,13 @@ body {
 .explanation {
   align-self: center;
 }
+
+.mission {
+  padding-left: 5vw;
+  padding-right: 5vw;
+  padding-bottom: 8vh;
+  background-color: #d8d9dc;
+}
 </style>
 
 <!--

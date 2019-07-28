@@ -5,6 +5,7 @@ import ContactUs from "./Pages/ContactUs.vue";
 import Leaderboard from "./Pages/Leaderboard.vue";
 import Login from "./Pages/Login.vue";
 import Dashboard from "./Pages/Dashboard.vue";
+import AboutUs from "./Pages/AboutUs.vue";
 
 Vue.use(Router);
 
@@ -35,6 +36,11 @@ export default new Router({
       path: "/Dashboard",
       name: "Dashboard",
       component: Dashboard
+    },
+    {
+      path: "/AboutUs",
+      name: "About us",
+      component: AboutUs
     }
   ]
 });

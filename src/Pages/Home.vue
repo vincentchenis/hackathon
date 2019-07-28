@@ -74,12 +74,6 @@ export default {
       float: right;
       padding-top: 2vw;
     }
-    .mission {
-      padding-left: 5vw;
-      padding-right: 5vw;
-      padding-bottom: 8vh;
-      background-color: #d8d9dc;
-    }
 </style>
 
 // Empowerment icon from https://www.flaticon.com/free-icon/empowerment_1939585

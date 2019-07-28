@@ -3,10 +3,12 @@
     <div class="nav">
       <router-link :to="{ name: 'home' }"><img src='../assets/new_logo.png'></router-link>
       <router-link :to="{ name: 'Leaderboard' }">Leaderboard</router-link>
-      <router-link :to="{ name: 'Contact us' }">Contact Us</router-link>
+      <router-link :to="{ name: 'About us' }">About Us</router-link>
+      <router-link :to="{ name: 'Contact us' }">Contact</router-link>
       <div class="slogan"><em>Student Heroes in every community</em></div>
       <router-link :to="{ name: 'Login' }" v-if="!authenticated" show=false>Login</router-link>
       <router-link v-if="authenticated" to="{ name: 'Login' }" v-on:click.native="logout()" replace>Logout</router-link>
+
     </div>
     <router-view @authenticated="setAuthenticated" />
   </div>
